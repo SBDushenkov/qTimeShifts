@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>svg/add-svgrepo-com.svg</file>
+        <file>svg/clock-svgrepo-com.svg</file>
+        <file>svg/minus-svgrepo-com.svg</file>
+        <file>svg/multiply-svgrepo-com.svg</file>
+        <file>svg/success-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
